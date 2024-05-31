@@ -49,3 +49,4 @@ To run CoinMath locally, you need to have [Node.js](https://nodejs.org/) and [np
 git clone https://github.com/yourusername/coinmath.git
 cd coinmath
 npm install
+
