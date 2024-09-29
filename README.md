@@ -94,6 +94,8 @@ The total supply of **COIM tokens** is capped at **500 million COIM**. The distr
 - **Treasury**: 5% (25 million COIM) – vested over 36 months
 - **Liquidity/Market Making/Exchanges**: 10% (50 million COIM) – 100% unlocked at launch
 
+For more detailed information, you can review our **CoinMath Tokenomics Spreadsheet**: [Tokenomics Spreadsheet](https://docs.google.com/spreadsheets/d/1Jfu3Tq5Q0LgZNCXMmO2Mw5t8TuLFuDq5/edit?usp=sharing&ouid=100648661153280790800&rtpof=true&sd=true).
+
 ## **Contributing**
 
 Contributions to CoinMath are welcome! If you'd like to contribute, please follow these steps:
@@ -116,6 +118,4 @@ For any inquiries or issues, please reach out:
 - **Email**: support@coinmath.org
 - **Social Media**: Follow us on [Twitter](https://twitter.com/coinmath_app) and [Telegram](https://t.me/CoinMath_app).
 
----
-
-This README file is now complete, providing all essential information for developers and users to get started with CoinMath, contribute to the project, and understand its purpose.
+For more details, you can review the **CoinMath Litepaper**: [Litepaper](https://medium.com/@coinmath/coinmath-litepaper-empowering-crypto-for-everyone-mine-earn-and-grow-with-coinmath-605983182ca1).
