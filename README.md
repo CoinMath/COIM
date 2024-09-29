@@ -35,7 +35,7 @@ CoinMath is designed to cater to a wide range of users with varying levels of ex
 To get started with CoinMath, follow these steps:
 
 1. **Download the CoinMath App**: Available for both iOS and Android. [Download here](https://bit.ly/coinmathapp)
-2. **Set Up Your Wallet**: Follow the instructions in the app to set up your wallet securely. [Wallet Setup Guide]([https://docs.base.org/docs/using-base/](https://coinmath.org/adding-the-base-network-and-coinmath-token-to-any-web3-wallet/)
+2. **Set Up Your Wallet**: Follow the instructions in the app to set up your wallet securely. [Wallet setup guide](https://coinmath.org/adding-the-base-network-and-coinmath-token-to-any-web3-wallet/)
 3. **Start Mining**: Begin mining COIM tokens and participate in the airdrop program.
 4. **Buy COIM Tokens on Uniswap**: Use the provided link to purchase COIM tokens on Uniswap.
 5. **Stake Your Tokens**: Visit the staking link to start earning rewards from staking your COIM tokens.
