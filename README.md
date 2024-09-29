@@ -133,6 +133,15 @@ CoinMath’s tokenomics are designed to ensure fair distribution, sustainable gr
 | **Treasury**                           | 5% (25M COIM)  | 6 to 36 months       |
 | **Liquidity/Market Making/Exchanges**  | 10% (50M COIM) | 100% unlocked at TGE |
 
+### **Token Allocation**  
+![Token Allocation](https://github.com/CoinMath/COIM/blob/main/images/Token%20Allocation.jpg)
+
+### **Token Vesting Schedule**  
+![Token Vesting Schedule](https://github.com/CoinMath/COIM/blob/main/images/Token%20Vesting%20Schedule.jpg)
+
+### **Detailed Vesting Schedule**  
+![Vesting Schedule](https://github.com/CoinMath/COIM/blob/main/images/Vesting%20schedule.jpg)
+
 For a detailed breakdown, see the full **[Tokenomics Spreadsheet](https://docs.google.com/spreadsheets/d/1Jfu3Tq5Q0LgZNCXMmO2Mw5t8TuLFuDq5/edit?usp=sharing&ouid=100648661153280790800&rtpof=true&sd=true)**.
 
 ---
